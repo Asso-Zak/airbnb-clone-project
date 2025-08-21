@@ -83,21 +83,26 @@ Secondary Text: Circular, Book (400), 14px
 
 -Logo
 
-Search bar
+- Search bar
 
--User navigation
+- User navigation
 
--Responsive menu
+- Responsive menu
 
 **2.Property Card**
 
-Property image
+- Property image
 
-Basic details (price, location, rating)
-Favorite button
-Responsive layout
+- Basic details (price, location, rating)
+
+- Favorite button
+
+- Responsive layout
+
 **3.Footer**
 
-Site links
-Company information
-Social media links
+- Site links
+
+- Company information
+
+-Social media links
